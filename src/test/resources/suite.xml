@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="EMI Calculator Automation Suite">
+    <test name="EMI Calculator Automation">
+        <classes>
+            <class name="EMITestRunner">
+            </class>
+        </classes>
+    </test>
+</suite>
